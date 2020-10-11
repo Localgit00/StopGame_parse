@@ -1,3 +1,3 @@
 # StopGame_parse
 
-Парсер сайта stopgame.ru
+Парсер обзоров игр, с пометкой "Наш выбор" с сайта stopgame.ru
